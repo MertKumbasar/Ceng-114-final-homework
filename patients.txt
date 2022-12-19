@@ -1,0 +1,4 @@
+boncuk dog 11 10000 vaccince
+max dog 9 1000 transfused
+alex brid 4 20000 vaccince
+tekir cat 20 10000 euthanasia
